@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+div .company-header {
+    display: flex;
+    justify-content: center;
+    color: red;
+    background-color: beige;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}

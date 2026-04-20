@@ -1,0 +1,22 @@
+html {
+    scrollbar-gutter: stable;
+}
+
+body {
+    margin: 0;
+}
+
+.page-content {
+    text-align: justify;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.center-text {
+    text-align: center;
+}
+
+figcaption {
+    font-size: xx-small;
+    color: grey;
+}

@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+div .pizza-table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+  border-spacing: 0;
+}
+
+th, td {
+  border-bottom: 3px solid;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+}
+
+td {
+  border-bottom: 1px solid;
+}
+
+.left-align {
+  text-align: left;
+}

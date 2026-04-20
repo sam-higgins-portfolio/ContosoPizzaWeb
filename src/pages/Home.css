@@ -1,0 +1,11 @@
+.center-image {
+    text-align: center;
+    margin: 1em;
+}
+
+.center-image img {
+    width: 40%;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+

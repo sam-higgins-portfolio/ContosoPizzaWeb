@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.navigation nav {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    border-top: 2px dashed burlywood
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 1em;
+}
+
+.link:hover {
+    background-color: blanchedalmond;
+}
